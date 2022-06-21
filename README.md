@@ -10,6 +10,8 @@ Skills: JavaScript || ReactJS || NodeJS || ExpressJS || Firebase || MongoDB
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on github 
 
+![Profile views](https://gpvc.arturio.dev/merazul2755)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/merazul-ehsan-sowad-922a201a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merazul-ehsan-sowad-922a201a6" height="30" width="40" /></a>
@@ -35,6 +37,6 @@ Skills: JavaScript || ReactJS || NodeJS || ExpressJS || Firebase || MongoDB
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=merazul2755)  
 
-![Profile views](https://gpvc.arturio.dev/merazul2755)  
+
 
 
