@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Merazul Ehsan Sowad
+## Hi there 👋, my name is Merazul Ehsan Sowad
 #### MERN Stack Developer
 <!-- ![MARN Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
