@@ -2,7 +2,7 @@
 #### MARN Stack Developer
 <!-- ![MARN Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I'm a Front-end web developer, passionate about making error-free websites with 100% plan client satisfaction. I have a passion for learning about sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal. I enjoy working with JavaScript, ReactJS,NodeJS,ExpressJS,Firebase,MongoDB etc.
+I'm a MARN Stack web developer, passionate about making error-free websites with 100% plan client satisfaction. I have a passion for learning about sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal. I enjoy working with JavaScript, ReactJS,NodeJS,ExpressJS,Firebase,MongoDB etc.
 
 
 Skills: JavaScript || ReactJS || NodeJS || ExpressJS || Firebase || MongoDB
